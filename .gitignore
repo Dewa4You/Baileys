@@ -10,3 +10,7 @@ node_modules/
 auth_info_baileys/
 session/
 .env
+node_modules/
+auth_info_baileys/
+session/
+.env
